@@ -1,3 +1,22 @@
 .icona-Face{
     width: 50px;
 }
+.icone-navBar{
+    position: relative;
+}
+.span-NavBar {
+    position: absolute;
+    top: 30%;
+    right: 7%;
+}
+
+.image-navBar{
+    position: relative;
+
+}
+.ball-NavBar{
+position: absolute;
+top: 70%;
+right: 2%;
+
+}
