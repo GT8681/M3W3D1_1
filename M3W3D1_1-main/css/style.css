@@ -1,14 +1,19 @@
+body{
+   max-width: 1200px;
+}
 .icona-Face{
     width: 50px;
 }
 .icone-navBar{
     position: relative;
+    text-decoration: none;
    
 }
 .span-NavBar {
     position: absolute;
+    text-decoration: none;
     top: 30%;
-    right: 7%;
+    right: 8%;
 }
 
 .image-navBar{
@@ -17,8 +22,19 @@
 }
 .ball-NavBar{
 position: absolute;
-top: 70%;
-right: 2%;
+top: 55%;
+right: 20%;
+
+}
+
+.image-navBar1{
+    position: relative;
+ width: 60px;
+}
+.ball-NavBar1{
+position: absolute;
+top: 20%;
+right: 65%;
 
 }
 .dropdown-menu a{
