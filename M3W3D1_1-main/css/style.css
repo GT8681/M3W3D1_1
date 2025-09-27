@@ -1,0 +1,39 @@
+.icona-Face{
+    width: 50px;
+}
+.icone-navBar{
+    position: relative;
+   
+}
+.span-NavBar {
+    position: absolute;
+    top: 30%;
+    right: 7%;
+}
+
+.image-navBar{
+    position: relative;
+ width: 60px;
+}
+.ball-NavBar{
+position: absolute;
+top: 70%;
+right: 2%;
+
+}
+.dropdown-menu a{
+    text-decoration: none; /* Rimuove la sottolineatura */
+    color: #333;
+    display: flex; /* Attiva Flexbox */
+    align-items: center; /* Allinea verticalmente icona e testo */
+    padding: 8px 15px;
+  }
+
+  .dropdown-menu i {
+    margin-right: 10px; /* Spazio tra l'icona e il testo */
+    font-size: 18px; /* Esempio, regola la dimensione dell'icona */
+  }
+  
+  .dropdown-menu span {
+    font-size: 16px; /* Esempio, regola la dimensione del testo */
+  }
